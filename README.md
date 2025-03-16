@@ -1,0 +1,1 @@
+# Mybb-Fast-Paste-URL-Plugin
